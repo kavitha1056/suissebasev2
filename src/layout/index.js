@@ -4,7 +4,7 @@ class AppLayout extends Component {
 
     render() {
         return <Layout>
-
+            Welcome to Suissebasev2
         </Layout>
     }
 }
