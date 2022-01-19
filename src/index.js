@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'antd/dist/antd.css';
+import '../src/assets/css/framework.css';
+import '../src/assets/css/styles.css';
+import '../src/assets/css/dark-theme.css';
 ReactDOM.render(
   <React.StrictMode>
     <App />
